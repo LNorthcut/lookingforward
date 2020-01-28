@@ -1,0 +1,29 @@
+{
+  "name": "lookingforward",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "less-middleware": "^3.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fitechnology@bitbucket.org/fitechnology/lookingforward.git"
+  },
+  "keywords": [
+    ".dev",
+    "site",
+    "lookingforward",
+    "node"
+  ],
+  "author": "F I Technologies - Lauren Brown (CEO)",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/fitechnology/lookingforward#readme"
+}
